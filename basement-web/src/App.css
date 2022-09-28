@@ -1,0 +1,162 @@
+.App {
+  text-align: center;
+  /*background-image: url("./assets/svg/castle_dark.webp");*/
+  /*background-repeat: no-repeat;*/
+  /*background-position: 50% 80px;*/
+  /*background-size: 90%;*/
+}
+
+.hacker {
+  text-align: center;
+  background-image: url("./assets/svg/pixil-frame-0.png");
+  background-repeat: no-repeat;
+  /*background-position: 50% 80px;*/
+  background-size: 100%;
+}
+
+.seaWave {
+  text-align: center;
+  background-image: url("./assets/svg/pink_mount.png");
+  background-repeat: no-repeat;
+  /*background-position: 50% 80px;*/
+  background-size: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  /*flex-direction: column;*/
+  /*align-items: center;*/
+  /*justify-content: center;*/
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.dark-castle {
+  text-align: center;
+  background-image: url("./assets/svg/castle_dark.webp");
+  background-repeat: no-repeat;
+  background-position: 50% 80px;
+}
+
+.pixel {
+  font-family: pixel;
+}
+
+.nav {
+  padding-top: 10vh;
+  padding-bottom: 20px;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.magazine {
+  background-image: url(./assets/svg/bookOpenSolid.svg);
+  background-repeat: no-repeat;
+  background-position: 50% 80px;
+  background-color: black;
+/*//green;*/
+/*  background-color: lightpink;*/
+  background-size: 90%;
+}
+
+.register {
+  /*background-image: url(./assets/svg/id-card-solid.svg);*/
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-color: black;
+  background-size: 45%;
+}
+
+.markets {
+  background-image: url(./assets/svg/markets-setup.svg);
+  background-repeat: no-repeat;
+  background-position: 68% 80px;
+  background-color: black;
+  background-size: 60%;
+}
+
+.markets-insight {
+  background-image: url(./assets/svg/folder-solid.svg);
+  background-repeat: no-repeat;
+  background-position: 50% 60px;
+  background-color: black;
+  background-size: 45%;
+}
+
+/*.joy-con {*/
+/*  background-image: url(./assets/svg/gamepad-solid.svg);*/
+/*  background-repeat: no-repeat;*/
+/*  background-position: 60% 80px;*/
+/*  background-color: black;*/
+/*  background-size: 45%;*/
+/*}*/
+
+.left {
+  margin-top: 20vh;
+  margin-right: 2vw;
+  display: inline-block;
+  /*border: 1px solid red;*/
+  padding: 1rem 1rem;
+  /*vertical-align: middle;*/
+  width: 40vw;
+  /*align-items: flex-start;*/
+}
+
+.right {
+  margin-top: 20vh;
+  margin-left: 2vw;
+  display: inline-block;
+  /*border: 1px solid red;*/
+  padding: 1rem 1rem;
+  /*vertical-align: middle;*/
+  width: 40vw;
+  /*align-items: flex-end;*/
+}
+
+.centre {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  /*border: 1px solid red;*/
+}
+
+.folder-label {
+  margin-top: 1vh;
+  margin-left: -5vw;
+  /*display: inline-block;*/
+  padding: 1rem 1rem;
+  width: 35vw;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+th {
+  text-align: left;
+}
