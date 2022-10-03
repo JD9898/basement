@@ -2,7 +2,7 @@
 
 Hi, 
 
-Welcome to my personal website project basement. This is a space where I am constantly updating new features on.
+Welcome to my personal website project basement. This is a React + Spring boot application and a space where I am constantly updating new features on.
 So far, it has included features and contents such as theme selector, investment strategies, trading diary and reflection sections. 
 It was first built to be my portfolio and to record my investment trajectory as I grow. But in the future, I intended to build a social network
 on top of that. So users can come in and comment on their own views in markets and trading, sort of like reddit. I am still exploring the
