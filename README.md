@@ -10,7 +10,7 @@ potential of this project and will be happy to take any suggestions and feedback
 jademinwei.wang@gmail.com :)
 
 A demo video of the current develop branch can be found with the link below:
-https://user-images.githubusercontent.com/59028701/193700325-232b32c0-006c-48a9-a1ed-5f491a2b37f8.mp4
+
 
 P.S. I have attached a google drive link for now on some interesting trades I made since I started this August, some strategies and reflection, etc:
 https://drive.google.com/drive/folders/1EMkuOd9V4-ZziGuQsLcOKs4sVpt8pBp8?usp=sharing
